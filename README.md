@@ -2,7 +2,7 @@
 
 Tool used for calculating impulse and momentum
 
-Includes mathmatical validation functions, a user friendly program accepting inputs, and a pytest verification suite.
+Includes mathematical validation functions, a user friendly program accepting inputs, and a pytest verification suite.
 
 ## Physics Formulation
 
